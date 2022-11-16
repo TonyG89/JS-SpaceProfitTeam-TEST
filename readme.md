@@ -1,3 +1,5 @@
+[demo](https://okylistik.github.io/JS-SpaceProfitTeam-TEST)
+
 левом боковом меню:
  - добавил padding-left, для читабельности
  - при маштабировании пропадали части списка, посчитал их важными. 
