@@ -1,4 +1,4 @@
-[demo](https://okylistik.github.io/JS-SpaceProfitTeam-TEST)
+[demo](https://TonyG89.github.io/JS-SpaceProfitTeam-TEST)
 
 левом боковом меню:
  - добавил padding-left, для читабельности
